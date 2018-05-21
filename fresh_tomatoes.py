@@ -17,7 +17,7 @@ main_page_head = '''
 <div id="myModal" class="modal">
 <div class="modal-content">
 <span class="close">&times;</span>
-<iframe width="300" height="300" {movie_tiles} src="https://www.w3schools.com"
+<iframe width="400" height="300" {movie_tiles} src="https://www.w3schools.com"
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </div>
